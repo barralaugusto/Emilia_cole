@@ -1,0 +1,90 @@
+.index{
+    font-family: 'Open Sans', sans-serif;
+    background-image: url("../img/home.jpg");
+    background-size: 965px;
+    background-repeat: no-repeat;
+    background-position: right;
+}
+ul{
+    list-style: none;
+}
+
+a{
+    text-decoration: none;
+    color:black;
+}
+
+i{
+    margin:3px;
+}
+
+li{
+    margin:20px;
+}
+
+#emilia{
+    font-family: 'Work Sans', sans-serif;
+    margin: 60px;
+    font-size:32px;
+   
+}
+
+.h1-index{
+    background-color: rgba(255, 255, 255, 0.534);
+}
+
+.h1-about{
+    margin-top: 50px;
+
+}
+
+h1{
+    font-family: 'Raleway', sans-serif;
+    font-size:60px;
+    font-weight: 800px;
+    margin-top: 190px;
+}
+
+.about{
+        font-family: 'Open Sans', sans-serif;
+        background-image: url("../img/about.jpg");
+        background-size: 965px;
+        background-repeat: no-repeat;
+        background-position-x: right;
+        
+        
+    }
+
+.testimonio{
+    color: #42a391;
+    font-size: 25px;
+}
+
+.autor{
+    color:#42a391;
+    font-size:14px;
+}
+
+.nav-about{
+    background-color:rgba(255, 255, 255, 0.534);
+    text-align: right;
+    padding-top:13px;
+    padding-bottom: 13px;
+    font-family: 'Open Sans', sans-serif;
+}
+
+.testimonio1{
+    margin-bottom: 70px;
+}
+.ul-about{
+    text-align: right;
+}
+.div-music{
+    background-image: url("../img/music-top.jpg");
+    padding-top: 25px;
+    padding-bottom: 10px;
+}
+
+.playlist{
+    width:750px;
+}
